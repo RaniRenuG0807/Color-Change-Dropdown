@@ -1,0 +1,32 @@
+#color{
+    background-color: rgb(204, 255, 255);
+}
+select{  
+    height: 60px;
+    width: 300px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 18%;
+    margin-bottom: 28%;
+    font-size: x-large;
+}
+
+.red{
+    background-color: #f00;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: #00f;
+}
+
+.green{
+    background-color: #0f0;
+}
+
+.pink{
+    background-color: rgb(221, 55, 158);
+}
